@@ -16,7 +16,6 @@ function App() {
       <TechStack/>
       <Experience/>
       <Projects/>
-      
     </div>
     )
 }
